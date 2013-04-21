@@ -5,12 +5,12 @@
   <parent>
     <groupId>com.pixeltreelabs</groupId>
     <artifactId>lanterns-live-wallpaper-parent</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
   </parent>
 
   <groupId>com.pixeltreelabs</groupId>
   <artifactId>lanterns-live-wallpaper-integration-tests</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>apk</packaging>
   <name>Japanese lanterns live wallpaper integration tests</name>
 
