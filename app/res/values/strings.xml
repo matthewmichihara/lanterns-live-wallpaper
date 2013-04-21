@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Japanese Lanterns</string>
     <string name="author">Pixel Tree Labs</string>
-    <string name="description">Watch lanterns sway.</string>
+    <string name="description">Swipe left or right and watch the lanterns sway.</string>
 </resources>
