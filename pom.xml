@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <groupId>com.pixeltreelabs</groupId>
     <artifactId>lanterns-live-wallpaper-parent</artifactId>
     <packaging>pom</packaging>
@@ -46,7 +45,8 @@
         <connection>scm:git:git://github.com/matthewmichihara/lanterns-live-wallpaper.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/matthewmichihara/lanterns-live-wallpaper.git</developerConnection>
         <url>https://github.com/matthewmichihara/lanterns-live-wallpaper</url>
-    </scm>
+      <tag>lanterns-live-wallpaper-parent-1.0</tag>
+  </scm>
 
     <build>
         <pluginManagement>
