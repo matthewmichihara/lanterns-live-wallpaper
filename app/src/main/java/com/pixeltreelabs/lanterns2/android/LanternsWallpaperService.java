@@ -49,7 +49,7 @@ public class LanternsWallpaperService extends WallpaperService {
         /** Add some deceleration to our `draw` calls. */
         private final DecelerateInterpolator mDecelerateInterpolator = new DecelerateInterpolator(
                 1f);
-        /** Runnable that is posted to our handler every {@link #REFRESH_RATE} milliseconds */
+        /** Runnable that is posted to our handler every {@link #REFRESH_RATE} milliseconds. */
         private final Runnable mDrawRunnable = new Runnable() {
             @Override
             public void run() {
